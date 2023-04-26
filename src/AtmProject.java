@@ -14,6 +14,12 @@ public class AtmProject {
         System.out.println("tolgahan branchi kodlarini yazdi.");
         //version tlghn1
 
+        System.out.println("bir kisim kodlar");
+        // tlghn2
+
+        System.out.println();
+        //tlghn3
+
 
 
     }
