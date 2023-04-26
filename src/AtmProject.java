@@ -4,6 +4,8 @@ public class AtmProject {
 
         System.out.println("Bu bir ATM projesidir");
         //version 1
+        System.out.println("Java is easy");
+        //version 2
 
 
 
