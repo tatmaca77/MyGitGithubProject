@@ -21,6 +21,7 @@ public class AtmProject {
         //tlghn3
         System.out.println();
         //localde degisiklik yaptim.
+        //remote'da degisiklik yaptim.
 
 
 
